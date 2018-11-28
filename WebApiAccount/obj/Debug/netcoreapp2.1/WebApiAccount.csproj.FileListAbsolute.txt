@@ -1,0 +1,14 @@
+D:\Exercise\WebApiAccount\WebApiAccount\bin\Debug\netcoreapp2.1\WebApiAccount.deps.json
+D:\Exercise\WebApiAccount\WebApiAccount\bin\Debug\netcoreapp2.1\WebApiAccount.runtimeconfig.json
+D:\Exercise\WebApiAccount\WebApiAccount\bin\Debug\netcoreapp2.1\WebApiAccount.runtimeconfig.dev.json
+D:\Exercise\WebApiAccount\WebApiAccount\bin\Debug\netcoreapp2.1\WebApiAccount.dll
+D:\Exercise\WebApiAccount\WebApiAccount\bin\Debug\netcoreapp2.1\WebApiAccount.pdb
+D:\Exercise\WebApiAccount\WebApiAccount\obj\Debug\netcoreapp2.1\WebApiAccount.csprojAssemblyReference.cache
+D:\Exercise\WebApiAccount\WebApiAccount\obj\Debug\netcoreapp2.1\WebApiAccount.csproj.CoreCompileInputs.cache
+D:\Exercise\WebApiAccount\WebApiAccount\obj\Debug\netcoreapp2.1\WebApiAccount.RazorAssemblyInfo.cache
+D:\Exercise\WebApiAccount\WebApiAccount\obj\Debug\netcoreapp2.1\WebApiAccount.RazorAssemblyInfo.cs
+D:\Exercise\WebApiAccount\WebApiAccount\obj\Debug\netcoreapp2.1\WebApiAccount.AssemblyInfoInputs.cache
+D:\Exercise\WebApiAccount\WebApiAccount\obj\Debug\netcoreapp2.1\WebApiAccount.AssemblyInfo.cs
+D:\Exercise\WebApiAccount\WebApiAccount\obj\Debug\netcoreapp2.1\WebApiAccount.RazorTargetAssemblyInfo.cache
+D:\Exercise\WebApiAccount\WebApiAccount\obj\Debug\netcoreapp2.1\WebApiAccount.dll
+D:\Exercise\WebApiAccount\WebApiAccount\obj\Debug\netcoreapp2.1\WebApiAccount.pdb
